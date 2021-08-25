@@ -124,3 +124,14 @@
   input::placeholder {
     color: #aaa;
   }
+
+  .box {
+    position:relative;
+}
+.bet_time {
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size: 200%;
+    color: rgb(153, 150, 150);
+}
